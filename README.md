@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é @Talytta
 - 👀 Eu estou interessada em frontend principalmente 
-- 🌱 Estou aprendendo algoritmos, javascript e desenvolvimento web
+- 🌱 Estou aprendendo algoritmos, HTML, CSS, javascript e desenvolvimento web
 - 📫 Você pode me encontrar aqui:
      Linkedin -> https://www.linkedin.com/in/talytta-d-a72418110/
      Twitter  -> https://twitter.com/TalyttaO
