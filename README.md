@@ -4,7 +4,7 @@ Hi 👋 My name is Talytta
 I'm mainly interested in frontend
 ---------------------------------
 
-I've been studying programming for three months, i'm currently participating in an Oracle program. I'm learning algorithms, HTML, CSS, JavaScript and web development.
+I've been studying programming for three months. I'm learning algorithms, HTML, CSS, JavaScript and web development.
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [talytta.oliveira.to@gmail.com](mailto:talytta.oliveira.to@gmail.com)
