@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Talytta</h1>
-<h3 align="center">data engineering student</h3>
-Slightly addicted to coffee, sometimes I program watching The Simpsons. I'm afraid the reality of the book Revival (Stephen King) is true. Potterhead and yes, I slept watching Lord of the Rings like most people.
+<h3 align="center">BTech System Development student</h3>
+Slightly addicted to coffee, sometimes I program watching The Simpsons. I sometimes think that the reality of the book Revival (Stephen King) is true. Potterhead and yes, I slept watching Lord of the Rings like most people.
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [talytta.oliveira.to@gmail.com](mailto:talytta.oliveira.to@gmail.com)
