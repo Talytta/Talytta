@@ -3,7 +3,6 @@
 Slightly addicted to coffee, sometimes I program watching The Simpsons. I sometimes think that the reality of the book Revival (Stephen King) is true. Potterhead and yes, I slept watching Lord of the Rings like most people.
 
 * 🌍  I'm based in Brasil
-* ✉️  You can contact me at [talytta.oliveira.to@gmail.com](mailto:talytta.oliveira.to@gmail.com)
 * ⚡  ps.: petition for HP theory groups to come back
 
 <h3 align="left">Connect with me:</h3>
